@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
+
+@document url("https://pulse-staging.kickup.co/") {
+
 body, button, a, div, span, h1, h2, h3, h4, h5, h6, * {
   font-family: 'Inter', sans-serif !important;
 }
 
 button, [type="button"] {
   border-radius: 6px !important;
+}
+
 }
